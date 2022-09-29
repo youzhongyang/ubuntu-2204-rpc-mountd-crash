@@ -1,0 +1,6 @@
+The nfs-kernel-server packages are built from the following files:
+
+  http://archive.ubuntu.com/ubuntu/pool/main/n/nfs-utils/nfs-utils_2.6.1-1ubuntu1.dsc
+  http://archive.ubuntu.com/ubuntu/pool/main/n/nfs-utils/nfs-utils_2.6.1.orig.tar.xz
+  http://archive.ubuntu.com/ubuntu/pool/main/n/nfs-utils/nfs-utils_2.6.1-1ubuntu1.debian.tar.xz
+
